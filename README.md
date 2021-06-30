@@ -1,5 +1,12 @@
-[![](https://img.shields.io/badge/-Fortran-%23734F96?style=flat-square&logo=fortran&logoColor=ffffff)](https://fortran-lang.org)
+## Research and teaching associate at the University of Bristol.
 
+__Research interests:__ numerical methods, optimisation, parallel CFD.
+
+
+[![](https://img.shields.io/badge/-Fortran-%23734F96?style=flat-square&logo=fortran&logoColor=ffffff)](https://fortran-lang.org)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Pyton](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)
 
 [![](https://github-readme-stats.vercel.app/api?username=lkedward&show_icons=true&theme=dracula)](/#js-contribution-activity)
 
