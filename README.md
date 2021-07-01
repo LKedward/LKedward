@@ -1,6 +1,6 @@
 ## Research associate, Department of Aerospace Engineering, University of Bristol, UK
 
-__Numerical methods • Optimisation • Computational Fluid Dynamics • Parallel and High Performance Computing • GPU Computing__
+__Numerical methods • Optimisation • Computational Fluid Dynamics • Parallel & High Performance Computing • GPU Computing__
 
 
 [![](https://img.shields.io/badge/-Fortran-%23734F96?style=flat-square&logo=fortran&logoColor=ffffff)](https://fortran-lang.org)
@@ -10,25 +10,12 @@ __Numerical methods • Optimisation • Computational Fluid Dynamics • Parall
 ![CUDA](https://img.shields.io/badge/-CUDA-black?style=flat-square&logo=NVIDIA&logoColor=green)
 ![Pyton](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=yellow)
 
-[![](https://github-readme-stats.vercel.app/api?username=lkedward&show_icons=true&theme=dracula)](/#js-contribution-activity)
+<img align="right"  src="https://github-readme-stats.vercel.app/api?username=lkedward&show_icons=true&theme=dracula">
 
-### Hi there 👋
+<!-- [![](https://github-readme-stats.vercel.app/api?username=lkedward&show_icons=true&theme=dracula)](/#js-contribution-activity) -->
 
-- 🔭 I’m currently working on ...
-- 
-<!--
-**LKedward/LKedward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background is in numerical methods for aerodynamic shape optimisation through which I have developed an interest in high performance scientific computing.
+I use C, C++ and modern Fortran extensively in my own work, and I am an active contributor and maintainer to several __[Fortran-lang](https://fortran-lang.org/community/)__ projects including the new __[Fortran Package Manager](https://github.com/fortran-lang/fpm)__.
+I am also proficient _OpenCL_ and _CUDA_, which I use for investigating highly-parallel algorithms for numerical methods.
